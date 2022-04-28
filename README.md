@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/SDARKEMPIRESL/StringSessionBot"><img src="https://telegra.ph/file/a5edc35a44a17df066ad1.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/DARKEMPIRESL/StringSessionBot"><img src="https://telegra.ph/file/b20fd5dfc7cf46508593e.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
